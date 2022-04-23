@@ -8,6 +8,7 @@ For this project, I simply wanted to see how the hypercorn ASGI-server works ins
 
 ### Installing FastAPI
 pip install fastapi
+
 pip install hypercorn
 
 
